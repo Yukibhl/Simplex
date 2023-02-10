@@ -1,0 +1,2 @@
+# Simplex
+Linear programming solution 
