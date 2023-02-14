@@ -1,6 +1,7 @@
 # Simplex by Yukibhl
 Linear programming solution 
 An example of linear problem :
+
   Maxz= x1+2x2
   where
   x1+3x2<=6
